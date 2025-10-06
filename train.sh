@@ -1,0 +1,9 @@
+python train.py \
+    --name D3QE \
+    --dataroot /path/to/your/dataset/ \
+    --detect_method D3QE \
+    --blur_prob 0.1 \
+    --blur_sig 0.0,3.0 \
+    --jpg_prob 0.1 \
+    --jpg_method cv2,pil \
+    --jpg_qual 30,100 \
