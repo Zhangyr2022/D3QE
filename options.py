@@ -22,7 +22,7 @@ class TrainOptions:
         parser.add_argument("--jpg_method", default="cv2,pil")
         parser.add_argument("--jpg_qual", default="30,100")
         parser.add_argument(
-            "--batch_size", type=int, default=64, help="input batch size"
+            "--batch_size", type=int, default=32, help="input batch size"
         )
         parser.add_argument(
             "--vqvae_path", type=str, default=None, help="the path of vqvae model"

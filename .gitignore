@@ -209,3 +209,4 @@ __marimo__/
 # ckpt
 checkpoints/
 results/
+.DS_Store

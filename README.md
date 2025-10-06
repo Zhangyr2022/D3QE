@@ -85,9 +85,7 @@ bash eval.sh
 <img src='assets\dataset.png' width=600 height=350>
 </div>
 
-We provide the **ARForensics** benchmark — the first large-scale dataset specifically for **visual autoregressive model detection**.
-
-**7 Autoregressive models included (diverse token/scale architectures):**
+We provide the **ARForensics** benchmark — the first large-scale dataset specifically for **visual autoregressive model detection**. **7 Autoregressive models included (diverse token/scale architectures):**
   [LlamaGen](https://github.com/FoundationVision/LlamaGen), [VAR](https://github.com/FoundationVision/VAR), [Infinity](https://github.com/FoundationVision/Infinity), [Janus-Pro](https://github.com/deepseek-ai/Janus), [RAR](https://github.com/bytedance/1d-tokenizer/tree/main), [Switti](https://github.com/yandex-research/switti), and [Open-MAGVIT2](https://github.com/TencentARC/SEED-Voken). 
   
 **Splits:**
