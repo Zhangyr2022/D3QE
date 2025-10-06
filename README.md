@@ -1,10 +1,10 @@
-# [ICCV 2025] $D^3$QE: Learning Discrete Distribution Discrepancy-aware Quantization Error for Autoregressive-Generated Image Detection
+# [ICCV 2025] D³QE: Learning Discrete Distribution Discrepancy-aware Quantization Error for Autoregressive-Generated Image Detection
 
 
-<div align='center'>
+<div align='center' style='margin-bottom:20px'>
   <a href=''><img src='https://img.shields.io/badge/ArXiv-red?logo=arxiv'></a>  &nbsp;
   <a href='https://github.com/Zhangyr2022/D3QE'><img src='https://img.shields.io/badge/Visualization-green?logo=github'></a> &nbsp;
-  <a href="https://github.com/Zhangyr2022/D3QE"><img src="https://img.shields.io/badge/Code-9E95B7?logo=github"></a> &nbsp; 
+  <a href="https://github.com/Zhangyr2022/D3QE"><img src="https://img.shields.io/badge/Code-9E95B7?logo=github"></a>
 </div>
 
 Dataset ***ARForensics***  is available at: [🤗 HuggingFace](https://huggingface.co/datasets/Yanran21/ARForensics)   |   [🤖 ModelScope](https://www.modelscope.cn/datasets/YanranZhang/ARForensics)  
@@ -38,7 +38,7 @@ This repo contains the code, dataset, and scripts used in the paper to facilitat
 
 
 <div align=center>
-<img src='assets\pipeline.png' width=500 height=240>
+<img src='assets\pipeline.png' width=600 height=300>
 </div>
 
 ## News 🔥
@@ -82,7 +82,7 @@ bash eval.sh
 ## Dataset
 
 <div align=center>
-<img src='assets\dataset.png' width=450 height=250>
+<img src='assets\dataset.png' width=600 height=350>
 </div>
 
 We provide the **ARForensics** benchmark — the first large-scale dataset specifically for **visual autoregressive model detection**.
