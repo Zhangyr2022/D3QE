@@ -87,16 +87,16 @@ bash eval.sh
 
 We provide the **ARForensics** benchmark — the first large-scale dataset specifically for **visual autoregressive model detection**.
 
-**Total images:** 304,000: 152,000 real (ImageNet subset), 152,000 synthetic (from 7 AR models)
+**7 Autoregressive models included (diverse token/scale architectures):**
+  [LlamaGen](https://github.com/FoundationVision/LlamaGen), [VAR](https://github.com/FoundationVision/VAR), [Infinity](https://github.com/FoundationVision/Infinity), [Janus-Pro](https://github.com/deepseek-ai/Janus), [RAR](https://github.com/bytedance/1d-tokenizer/tree/main), [Switti](https://github.com/yandex-research/switti), and [Open-MAGVIT2](https://github.com/TencentARC/SEED-Voken). 
+  
+**Splits:**
 
-**Autoregressive models included (diverse token/scale architectures):**
-  [LlamaGen](https://github.com/FoundationVision/LlamaGen), [VAR](https://github.com/FoundationVision/VAR), [Infinity](https://github.com/FoundationVision/Infinity), [Janus-Pro](https://github.com/deepseek-ai/Janus), [RAR](https://github.com/bytedance/1d-tokenizer/tree/main), [Switti](https://github.com/yandex-research/switti), and [Open-MAGVIT2](https://github.com/TencentARC/SEED-Voken). **Splits:**
-
-  * Training: 100k LlamaGen images
-  * Validation: 10k images
+  * Training: 100k LlamaGen images + 100k ImageNet images
+  * Validation: 10k LlamaGen images + 10k ImageNet images
   * Test: balanced test set with 6k samples per model
 
-> **Download:** The dataset `ARForensics` is uploaded and available at: [🤗 HuggingFace](https://huggingface.co/datasets/Yanran21/ARForensics)   |   [🤖 ModelScope](https://www.modelscope.cn/datasets/YanranZhang/ARForensics).
+**Download:** The dataset `ARForensics` is uploaded and available at: [🤗 HuggingFace](https://huggingface.co/datasets/Yanran21/ARForensics)   |   [🤖 ModelScope](https://www.modelscope.cn/datasets/YanranZhang/ARForensics).
 
 **Folder structure (expected):**
 
@@ -120,7 +120,6 @@ ARForensics/
    ├─ LlamaGen/
    └─ Open_MAGVIT2/
 ```
-
 
 
 ## Training
