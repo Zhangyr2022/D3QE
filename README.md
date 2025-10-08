@@ -2,12 +2,18 @@
 
 
 <div align='center' style='margin-bottom:20px'>
-  <a href=''><img src='https://img.shields.io/badge/ArXiv-red?logo=arxiv'></a>  &nbsp;
-  <a href='https://github.com/Zhangyr2022/D3QE'><img src='https://img.shields.io/badge/Visualization-green?logo=github'></a> &nbsp;
+  <a href='http://arxiv.org/abs/2510.05891'><img src='https://img.shields.io/badge/ArXiv-red?logo=arxiv'></a>  &nbsp;
+  <a href='https://ivg-yanranzhang.github.io/D3QE/'><img src='https://img.shields.io/badge/Visualization-green?logo=github'></a> &nbsp;
   <a href="https://github.com/Zhangyr2022/D3QE"><img src="https://img.shields.io/badge/Code-9E95B7?logo=github"></a>
 </div>
 
+<div align='center'>
 Dataset ***ARForensics***  is available at: [🤗 HuggingFace](https://huggingface.co/datasets/Yanran21/ARForensics)   |   [🤖 ModelScope](https://www.modelscope.cn/datasets/YanranZhang/ARForensics)  
+</div>
+
+<div align=center>
+<img src='assets\image.png' width=200 height=200>
+</div>
 
 *Created by [Yanran Zhang](https://github.com/Zhangyr2022), [Bingyao Yu](https://yuby14.github.io/), [Yu Zheng](https://yzheng97.github.io/), [Wenzhao Zheng](https://wzzheng.net/), [Yueqi Duan](https://scholar.google.com/citations?user=qDseo3cAAAAJ&hl=zh-CN), [Lei Chen](https://scholar.google.com/citations?user=8bMh-FQAAAAJ&hl=zh-CN&oi=sra), [Jie Zhou](https://scholar.google.com/citations?user=6a79aPwAAAAJ&hl=en&authuser=1), [Jiwen Lu](https://scholar.google.com/citations?user=TN8uDQoAAAAJ&hl=zh-CN)*
 
@@ -196,7 +202,6 @@ Thanks to the authors of those projects for making their code and models availab
 If you use this repository or dataset in your research, please cite our paper:
 
 ```bibtex
-<!--  -->
 ```
 
 

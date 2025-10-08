@@ -132,7 +132,7 @@ class TrainOptions:
             "--beta1", type=float, default=0.9, help="momentum term of adam"
         )
         parser.add_argument(
-            "--lr", type=float, default=0.0001, help="initial learning rate for adam"
+            "--lr", type=float, default=0.00008, help="initial learning rate for adam"
         )
         parser.add_argument(
             "--init_type",
