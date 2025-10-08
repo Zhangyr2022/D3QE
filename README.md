@@ -8,11 +8,11 @@
 </div>
 
 <div align='center'>
-Dataset ***ARForensics***  is available at: [🤗 HuggingFace](https://huggingface.co/datasets/Yanran21/ARForensics)   |   [🤖 ModelScope](https://www.modelscope.cn/datasets/YanranZhang/ARForensics)  
+Dataset **ARForensics**  is available at: [🤗 HuggingFace](https://huggingface.co/datasets/Yanran21/ARForensics)   |   [🤖 ModelScope](https://www.modelscope.cn/datasets/YanranZhang/ARForensics)  
 </div>
 
 <div align=center>
-<img src='assets\image.png' width=200 height=200>
+<img src='assets\image.png' width=320 height=320>
 </div>
 
 *Created by [Yanran Zhang](https://github.com/Zhangyr2022), [Bingyao Yu](https://yuby14.github.io/), [Yu Zheng](https://yzheng97.github.io/), [Wenzhao Zheng](https://wzzheng.net/), [Yueqi Duan](https://scholar.google.com/citations?user=qDseo3cAAAAJ&hl=zh-CN), [Lei Chen](https://scholar.google.com/citations?user=8bMh-FQAAAAJ&hl=zh-CN&oi=sra), [Jie Zhou](https://scholar.google.com/citations?user=6a79aPwAAAAJ&hl=en&authuser=1), [Jiwen Lu](https://scholar.google.com/citations?user=TN8uDQoAAAAJ&hl=zh-CN)*
