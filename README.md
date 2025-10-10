@@ -49,9 +49,9 @@ This repo contains the code, dataset, and scripts used in the paper to facilitat
 
 ## News 🔥
 
-- 🆕 **2025-10-10** — Our code is released.  
+- 🆕 **2025-10-09** — Our code is released.  
 - 🆕 **2025-10-08** — arXiv preprint released.  
-- 🆕 **2025-07-23** — Accepted to **ICCV 2025**!
+- 🆕 **2025-07-23** — Accepted to **ICCV 2025**!🔥
 
 
 
@@ -184,7 +184,7 @@ python eval.py \
 
 ## Pretrained Models
 
-Pretrained model checkpoints will be uploaded soon. Once available, download links and the matching `--model_path` examples will be added here.
+Pretrained model checkpoints are uploaded at: [🤗 Hugging Face](https://huggingface.co/Yanran21/D3QE/tree/main)
 
 
 
@@ -202,6 +202,12 @@ Thanks to the authors of those projects for making their code and models availab
 If you use this repository or dataset in your research, please cite our paper:
 
 ```bibtex
+@article{zhang2025d3qe,
+  title={$$\backslash$bf $\{$D\^{} 3$\}$ $ QE: Learning Discrete Distribution Discrepancy-aware Quantization Error for Autoregressive-Generated Image Detection},
+  author={Zhang, Yanran and Yu, Bingyao and Zheng, Yu and Zheng, Wenzhao and Duan, Yueqi and Chen, Lei and Zhou, Jie and Lu, Jiwen},
+  journal={arXiv preprint arXiv:2510.05891},
+  year={2025}
+}
 ```
 
 
