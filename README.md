@@ -202,10 +202,11 @@ Thanks to the authors of those projects for making their code and models availab
 If you use this repository or dataset in your research, please cite our paper:
 
 ```bibtex
-@article{zhang2025d3qe,
-  title={$$\backslash$bf $\{$D\^{} 3$\}$ $ QE: Learning Discrete Distribution Discrepancy-aware Quantization Error for Autoregressive-Generated Image Detection},
+@inproceedings{zhang2025d3qe,
+  title={D3QE: Learning Discrete Distribution Discrepancy-aware Quantization Error for Autoregressive-Generated Image Detection},
   author={Zhang, Yanran and Yu, Bingyao and Zheng, Yu and Zheng, Wenzhao and Duan, Yueqi and Chen, Lei and Zhou, Jie and Lu, Jiwen},
-  journal={arXiv preprint arXiv:2510.05891},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={16292--16301},
   year={2025}
 }
 ```
