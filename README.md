@@ -17,6 +17,14 @@ Dataset <b>ARForensics</b>  is available at:  <a href='https://huggingface.co/da
 
 *Created by [Yanran Zhang](https://github.com/Zhangyr2022), [Bingyao Yu](https://yuby14.github.io/), [Yu Zheng](https://yzheng97.github.io/), [Wenzhao Zheng](https://wzzheng.net/), [Yueqi Duan](https://scholar.google.com/citations?user=qDseo3cAAAAJ&hl=zh-CN), [Lei Chen](https://scholar.google.com/citations?user=8bMh-FQAAAAJ&hl=zh-CN&oi=sra), [Jie Zhou](https://scholar.google.com/citations?user=6a79aPwAAAAJ&hl=en&authuser=1), [Jiwen Lu](https://scholar.google.com/citations?user=TN8uDQoAAAAJ&hl=zh-CN)*
 
+🚨 **Urgent Update!**  
+The original test set in <a href='https://huggingface.co/datasets/Yanran21/ARForensics'>[🤗 HuggingFace]</a> , when unpacked, contained the following subfolders:  
+`"Infinity", "Janus_Pro", "RAR", "MAR", "VAR", "LlamaGen", "Open_MAGVIT2"`,  
+which **does not match the dataset used in our paper**.  
+
+We have now replaced the `"MAR"` samples with `"Switti"` samples.  
+Please **re-download the dataset** and unpack it. The corrected test set now contains:  
+`"Infinity", "Janus_Pro", "RAR", "Switti", "VAR", "LlamaGen", "Open_MAGVIT2"`.
 
 ## Table of Contents
 - [Introduction](#introduction)
